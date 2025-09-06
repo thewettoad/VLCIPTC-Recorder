@@ -1,2 +1,4 @@
 # VLCIPTC-Recorder
-A simple python script to automate as tv show or series of shows to 
+A simple Python script to automate a TV show or series of shows to record using ffmpeg and VLC.
+
+
